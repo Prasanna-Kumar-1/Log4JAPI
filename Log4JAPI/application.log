@@ -1,0 +1,28 @@
+2019-12-23 16:28:30,545  INFO [main] LoginTest:34 - ****************************** Starting test cases execution  *****************************************
+2019-12-23 16:28:35,879  INFO [main] LoginTest:38 - launching chrome broswer
+2019-12-23 16:28:39,459  INFO [main] LoginTest:45 - entering application URL
+2019-12-23 16:28:39,460  WARN [main] LoginTest:46 - hey this is just fatal error message
+2019-12-23 16:28:39,468  INFO [main] LoginTest:53 - ****************************** starting freeCrmTitleTest test case *****************************************
+2019-12-23 16:28:39,479  INFO [main] LoginTest:56 - login page title is--->Free CRM #1 cloud software for any business large or small
+2019-12-23 16:28:39,494  INFO [main] LoginTest:59 - ****************************** ending freeCrmTitleTest test case *****************************************
+2019-12-23 16:28:44,548  INFO [main] LoginTest:78 - ****************************** Browser is closed *****************************************
+2019-12-23 16:28:44,550  INFO [main] LoginTest:34 - ****************************** Starting test cases execution  *****************************************
+2019-12-23 16:28:49,457  INFO [main] LoginTest:38 - launching chrome broswer
+2019-12-23 16:28:52,815  INFO [main] LoginTest:45 - entering application URL
+2019-12-23 16:28:52,816  WARN [main] LoginTest:46 - hey this is just fatal error message
+2019-12-23 16:28:52,819  INFO [main] LoginTest:65 - ****************************** starting freeCrmTitleTest test case *****************************************
+2019-12-23 16:28:58,687  INFO [main] LoginTest:78 - ****************************** Browser is closed *****************************************
+2019-12-23 16:42:32,743  INFO [main] LoginTest:34 - ****************************** Starting test cases execution  *****************************************
+2019-12-23 16:42:40,351  INFO [main] LoginTest:38 - launching chrome broswer
+2019-12-23 16:42:43,937  INFO [main] LoginTest:45 - entering application URL
+2019-12-23 16:42:43,937  WARN [main] LoginTest:46 - hey this is just fatal error message
+2019-12-23 16:42:43,951  INFO [main] LoginTest:53 - ****************************** starting freeCrmTitleTest test case *****************************************
+2019-12-23 16:42:43,972  INFO [main] LoginTest:56 - login page title is--->Free CRM #1 cloud software for any business large or small
+2019-12-23 16:42:43,989  INFO [main] LoginTest:59 - ****************************** ending freeCrmTitleTest test case *****************************************
+2019-12-23 16:42:51,097  INFO [main] LoginTest:77 - ****************************** Browser is closed *****************************************
+2019-12-23 16:42:51,099  INFO [main] LoginTest:34 - ****************************** Starting test cases execution  *****************************************
+2019-12-23 16:42:56,866  INFO [main] LoginTest:38 - launching chrome broswer
+2019-12-23 16:42:59,297  INFO [main] LoginTest:45 - entering application URL
+2019-12-23 16:42:59,297  WARN [main] LoginTest:46 - hey this is just fatal error message
+2019-12-23 16:42:59,300  INFO [main] LoginTest:65 - ****************************** starting freeCrmTitleTest test case *****************************************
+2019-12-23 16:43:04,678  INFO [main] LoginTest:77 - ****************************** Browser is closed *****************************************
